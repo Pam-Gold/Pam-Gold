@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pam-Gold
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Reactjs, TailwindCss & Zustand
 - 💞️ I’m looking to collaborate on ...
 - 📫 +2349031889024
 
