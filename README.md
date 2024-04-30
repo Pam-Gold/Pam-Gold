@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pam-Gold
 
-- 👀 I’m interested in FullStack Development
+- 👀 I’m interested in Web3 Development
 
 - 🌱 I’m currently learning Reactjs, Firebase & Typescript 
 
