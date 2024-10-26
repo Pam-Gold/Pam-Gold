@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Web3 Development
 
-- 🌱 I’m currently learning Next.js x Solidity 
+- 🌱 I’m currently learning web3 related stuff
 
 - 💞️ I’m looking to collaborate on projects with other developers utilizing the react ecosystem.
 - 📫 +234 903 188 9024
