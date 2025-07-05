@@ -8,6 +8,8 @@
   
 - 📫 pams.gold0@gmail.com
 
+- New acc @Immanuel-Gold
+
 <!---
 Pam-Gold/Pam-Gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
