@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Pam-Gold
 
-- 👀 I’m interested in Web3 Development
+- 👀 I’m interested in Fullstack Development
 
-- 🌱 I’m currently learning web3 related stuff
+- 🌱 I’m currently learning Backend Development and Writing Stuff
 
-- 💞️ I’m looking to collaborate on projects with other developers utilizing the react ecosystem.
-- 📫 +234 903 188 9024
+- 💞️ I’m  all good for now.
+  
+- 📫 pams.gold0@gmail.com
 
 <!---
 Pam-Gold/Pam-Gold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
